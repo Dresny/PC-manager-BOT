@@ -2,7 +2,7 @@
 <div>
   Перед началом использования:
   <ul>
-    <li>Скачайте код</li>6623874227:AAEW5508eaVPqGG0WDCM-5KfqtcNMxcE6f0
+    <li>Скачайте код</li>
     <li>Заполните поля: BOT_TOKEN, ALLOWED_USER_IDS, PASSWORD, SCREENSHOT_PATH, FILE_TRANSFER_FOLDER, FILE_SEND_FOLDER</li>
     <li>Запустите бота</li>
   </ul>
