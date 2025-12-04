@@ -1,4 +1,5 @@
-# PC-manager-BOT 8350080467:AAHGT4us-zQ5cfnfFb5Vvrmq8wfE02a4s
+# PC-manager-BOT
+8349068883:AAGgdgTuiol855uVQm7j9ReE7egTIu8KcHo
 <div>
   Перед началом использования:
   <ul>
